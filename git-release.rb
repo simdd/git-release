@@ -5,7 +5,7 @@ class GitRelease < Formula
   desc "release current branch to origin"
   homepage "https://github.com/simdd/git-release"
   url "https://github.com/simdd/git-release/releases/download/0.0.1/git-release.zip"
-  sha256 "22bc81896ac8d74a2bf5f2599ca6acafd51b356476e07527fd7d01ba72d72e54"
+  sha256 "17c5ca191e02cb4e596df8ed084cb494a38c4d9b120f5bb3f689cfa2108cc37e"
   # depends_on "cmake" => :build
 
   def install
@@ -17,7 +17,7 @@ class GitRelease < Formula
     #                      "--prefix=#{prefix}"
     # system "cmake", ".", *std_cmake_args
     # system "make", "install" # if this fails, try separate make/make install steps
-    bin.install "git-release" 
+    bin.install "git-release"
  end
 
   test do

@@ -1,5 +1,5 @@
 #!/bin/bash
-clear
+
 git branch -D release
 git push origin :release
 git checkout -b release
