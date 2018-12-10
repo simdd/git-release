@@ -5,7 +5,7 @@ class GitRelease < Formula
   desc "release current branch to origin"
   homepage "https://github.com/simdd/git-release"
   url "https://github.com/simdd/git-release/releases/download/0.0.1/git-release.zip"
-  sha256 "17c5ca191e02cb4e596df8ed084cb494a38c4d9b120f5bb3f689cfa2108cc37e"
+  sha256 "857c7acf0276cf82e07a6beb1a91a45781017688fa2ea581c8970bc0d222b89b"
   # depends_on "cmake" => :build
 
   def install
