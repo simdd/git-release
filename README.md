@@ -7,7 +7,7 @@
 #### usage
 > git release
 
-#### [如何开发homebrew包](!https://speakerdeck.com/defeated/homebrew-publish-your-first-formula)
+#### [如何开发homebrew包](https://speakerdeck.com/defeated/homebrew-publish-your-first-formula)
 
 #### 其他
 
