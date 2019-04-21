@@ -7,8 +7,6 @@
 #### usage
 > git release
 
-#### [如何开发homebrew包](https://speakerdeck.com/defeated/homebrew-publish-your-first-formula)
-
 #### 其他
 
 > 查看文件shasum
@@ -16,3 +14,6 @@
 
 > 将sh文件转为mac可执行文件
 > shc -f git-release.sh -o git-release
+
+> 如何开发homebrew包
+> [https://speakerdeck.com/defeated/homebrew-publish-your-first-formula](https://speakerdeck.com/defeated/homebrew-publish-your-first-formula)
